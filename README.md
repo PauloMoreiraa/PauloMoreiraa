@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35em" />
 </div>
   
-<div>
+<div align="center">
   <a href="https://www.instagram.com/paulo_mmoreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white" target="_blank"  height="20em"></a>
   <a href = "mailto:paulo.moreira2004@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" height="20em"></a>
   <a href="https://www.linkedin.com/in/paulomoreira2004/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em" target="_blank"></a> 
