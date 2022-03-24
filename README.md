@@ -3,7 +3,7 @@
 
 • 📅 08/01/2004 - 18 Anos
 
-• 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes)
+• 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
 
 • 📚 Sistemas para Internet - Universidade Tecnológica Federal do Paraná (UTFPR)
 
