@@ -1,7 +1,7 @@
 ## Olá! Me chamo Paulo Henrique Moreira Martins.
 
 
-• 📅 08/01/2004 - 18 Anos
+• 📅 08/01/2004 - 19 Anos
 
 • 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
 
