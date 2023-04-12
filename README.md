@@ -1,4 +1,9 @@
-## Olá! Me chamo Paulo Henrique Moreira Martins.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b31237&height=120&section=header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=30&pause=1000&color=E91748&center=true&width=456&lines=Ol%C3%A1%2C+me+chamo+Paulo+Moreira)](https://git.io/typing-svg)
+
+
+## 
 
 
 • 📅 08/01/2004 - 19 Anos
@@ -10,23 +15,15 @@
 • 📧 paulo.martins2004@hotmail.com
 
   ##
-  
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="35em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35em" />
-</div>
 
-  ##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloMoreiraa&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMoreiraa&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+ ##
   
 <div align="center">
   <a href="https://www.instagram.com/paulo_mmoreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white" target="_blank"  height="20em"></a>
   <a href = "mailto:paulo.moreira2004@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" height="20em"></a>
   <a href="https://www.linkedin.com/in/paulomoreira2004/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em" target="_blank"></a> 
 </div>
-    
