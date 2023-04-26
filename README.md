@@ -14,13 +14,6 @@
 
 • 📧 paulo.martins2004@hotmail.com
 
-  ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloMoreiraa&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMoreiraa&layout=demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
- ##
   
 <div align="center">
   <a href="https://www.instagram.com/paulo_mmoreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white" target="_blank"  height="20em"></a>
