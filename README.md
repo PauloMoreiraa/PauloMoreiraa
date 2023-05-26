@@ -20,3 +20,9 @@
   <a href = "mailto:paulo.moreira2004@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" height="20em"></a>
   <a href="https://www.linkedin.com/in/paulomoreira2004/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20em" target="_blank"></a> 
 </div>
+
+<div align="center">
+  <a href="https://github.com/PauloMoreiraa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulomoreiraa&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomoreiraa&show_icons=true&layout=compact&theme=transparent"/>
+</div>
