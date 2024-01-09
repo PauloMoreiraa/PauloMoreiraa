@@ -6,11 +6,9 @@
 ## 
 
 
-• 📅 08/01/2004 - 19 Anos
+• 📅 08/01/2004 - 20 Anos
 
 • 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
-
-• 📚 Sistemas para Internet - Universidade Tecnológica Federal do Paraná (UTFPR)
 
 • 📧 paulo.martins2004@hotmail.com
 
