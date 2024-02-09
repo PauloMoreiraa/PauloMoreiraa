@@ -10,6 +10,8 @@
 
 • 💻 Técnico em Desenvolvimento de Sistemas (ETEC de Guaianazes - São Paulo, SP)
 
+• 📖 Análise e Desenvolvimento de Sistemas (Universidade Cidade de São Paulo - São Paulo, SP)
+
 • 📧 paulo.martins2004@hotmail.com
 
   
